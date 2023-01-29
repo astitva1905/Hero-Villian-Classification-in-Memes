@@ -12,3 +12,7 @@ Our methodology and code closely referred to the paper by Shaik Fharook et. al. 
 ## Code
 
 The jupyter notebooks, complete with the code walkthrough and explanations can be found in the repository. 
+
+## Datasets
+
+The datasets are memes on US politics and COVID 19. The sizes of these datasets are extremely large and can't be uploaded to the repository directly. They can be found on the official page of Constraint 2022 linked above. 
